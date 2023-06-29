@@ -1,2 +1,2 @@
-# quote-generator
- Gera citações aleatórias
+# Gerador de citações aleatórias
+ 
