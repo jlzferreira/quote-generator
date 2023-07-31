@@ -9,9 +9,8 @@ Você também pode compartilhar a citação no Twitter, clicando no botão "Twee
 <br>
 <b>Tecnologias Utilizadas</b><br>
 HTML<br>
-CSS (Tailwind CSS)<br>
+CSS<br>
 JavaScript<br>
-Screenshot<br>
 <br>
 <b>Desenvolvedor</b><br>
 Este projeto foi desenvolvido por jlzferreira.<br>
